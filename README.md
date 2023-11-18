@@ -1,7 +1,6 @@
 # cub3d
 
-## Description
-
+Reproduction of Wolfenstein3D in raycasting using the minilibx.
 
 ## Installation
 
