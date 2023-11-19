@@ -13,7 +13,7 @@ make
 Then run the executable with the map you want
 
 ```sh
-./cub3d map/custom.cub
+./cub3D map/custom.cub
 ```
 
 ## Images
